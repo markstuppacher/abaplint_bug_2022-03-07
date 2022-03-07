@@ -1,0 +1,5 @@
+REPORT zreport.
+
+CONSTANTS BEGIN OF foo.
+INCLUDE zincl.
+CONSTANTS END OF foo.
