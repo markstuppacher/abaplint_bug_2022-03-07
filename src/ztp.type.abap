@@ -1,4 +1,0 @@
-TYPE-POOL ztp.
-CONSTANTS BEGIN OF ztp_foo.
-INCLUDE zincl.
-CONSTANTS END OF ztp_foo.
